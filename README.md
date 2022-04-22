@@ -19,3 +19,11 @@
 ### Added File Upload Page Component that will Communicate with the smartcontract and Ipfs hasg to the blockchain (Merged) - https://github.com/Team-Wakanda/NestLibrary/pull/6/commits/151f34f71a80eb58ecf03377023bf43ba4ec3605
 
 ### Deployed Smart Contract Code using Truffle Dashboard (Merged) - https://github.com/Team-Wakanda/NestLibrary/pull/9/commits/533847549c939b30895db2f7c6305c45061f7381
+
+
+## Task Three
+
+
+### Created The Polls Page (Merged) - https://github.com/pidoxy/voting-system/commit/89d2b64c2f50557d75b9016dea6890f0bfd24209
+
+### Refactor the Polls Table (Merged) - https://github.com/pidoxy/voting-system/commit/98e1f2076bc041ceba4b8d365d031e3fa1d32c98
